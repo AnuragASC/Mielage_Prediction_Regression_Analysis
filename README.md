@@ -53,7 +53,7 @@ To run this code locally or make improvements, follow these steps:
 
 1) Clone this repository to your local machine:
 
-   git clone https://github.com/YourUsername/Mileage-Prediction.git
+   git clone https://github.com/AnuragASC/Mielage_Prediction_Regression_Analysis.git
 
 3) Install the required Python libraries:
 
