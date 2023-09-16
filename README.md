@@ -52,14 +52,16 @@ Polynomial Regression Model (Degree 2):
 To run this code locally or make improvements, follow these steps:
 
 1) Clone this repository to your local machine:
-git clone https://github.com/YourUsername/Mileage-Prediction.git
 
-2) Install the required Python libraries:
-pip install pandas numpy matplotlib seaborn scikit-learn
+   git clone https://github.com/YourUsername/Mileage-Prediction.git
 
-3) Run the Jupyter Notebook or Python script to analyze and train the regression models.
+3) Install the required Python libraries:
 
-4) Feel free to experiment with different regression techniques or preprocessing steps to improve the model's performance.
+   pip install pandas numpy matplotlib seaborn scikit-learn
+
+5) Run the Jupyter Notebook or Python script to analyze and train the regression models.
+
+6) Feel free to experiment with different regression techniques or preprocessing steps to improve the model's performance.
 
 # Acknowledgments
 1) Dataset Source: StatLib library, maintained at Carnegie Mellon University
